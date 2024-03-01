@@ -1,3 +1,8 @@
+<body style =' background-image: url("layouts/back.jpeg");
+  background-position: center;
+  background-repeat: no-repeat; 
+  background-size: cover; 
+'>
 <div class="col-md-3 mb-5 mt-5">
       <div class="card">
           <div class="card-header">
@@ -22,3 +27,4 @@
           </form>
         </div>
   </div>
+</body>
