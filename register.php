@@ -1,4 +1,7 @@
-<body class="login-page" style="height: auto;">
+<body class="login-page" style='height: auto;  background-image: url("layouts/back.jpeg");
+  background-position: center;
+  background-repeat: no-repeat; 
+  background-size: cover; '>
   <div class="container">
   <div class="row mt-5 mb-5 justify-content-center">
   <div class="col-md-6">
